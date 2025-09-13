@@ -1,0 +1,44 @@
+{
+  "opportunities": [
+    {
+      "nome": "João Silva",
+      "orcamento": 500000,
+      "urgencia": "alta",
+      "tipo_imovel": "apartamento",
+      "localizacao_preferida": "centro",
+      "contato_anterior": "sim"
+    },
+    {
+      "nome": "Maria Santos",
+      "orcamento": 800000,
+      "urgencia": "média",
+      "tipo_imovel": "casa",
+      "localizacao_preferida": "zona sul",
+      "contato_anterior": "sim"
+    },
+    {
+      "nome": "Carlos Oliveira",
+      "orcamento": 300000,
+      "urgencia": "baixa",
+      "tipo_imovel": "apartamento",
+      "localizacao_preferida": "periferia",
+      "contato_anterior": "não"
+    },
+    {
+      "nome": "Ana Costa",
+      "orcamento": 1200000,
+      "urgencia": "alta",
+      "tipo_imovel": "cobertura",
+      "localizacao_preferida": "beira mar",
+      "contato_anterior": "sim"
+    },
+    {
+      "nome": "Pedro Lima",
+      "orcamento": 150000,
+      "urgencia": "baixa",
+      "tipo_imovel": "kitnet",
+      "localizacao_preferida": "centro",
+      "contato_anterior": "não"
+    }
+  ]
+}
