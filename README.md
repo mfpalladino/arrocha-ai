@@ -4,6 +4,9 @@ Sistema que utiliza Amazon Bedrock para classificar automaticamente oportunidade
 
 > 💝 **Criado com muito amor e suor durante o AWS Vibe Coding Dojo no ROGADX 2025** 🚀
 
+![Team Photo](images/team.jpeg)
+*Nosso time incrível durante o AWS Vibe Coding Dojo no ROGADX 2025*
+
 ## 🚀 Como executar
 
 ### Modo Simples (Recomendado)
